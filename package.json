@@ -1,0 +1,33 @@
+{
+  "name": "nextbigger",
+  "version": "1.0.0",
+  "description": "Function that returns the next bigger number with the same digits.",
+  "main": "index.js",
+  "directories": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
+  "dependencies": {
+    "chai": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamhitarth/nextBigger.git"
+  },
+  "keywords": [
+    "nextBigger",
+    "number",
+    "code",
+    "challenge",
+    "alogrithm"
+  ],
+  "author": "Hitarth Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamhitarth/nextBigger/issues"
+  },
+  "homepage": "https://github.com/iamhitarth/nextBigger#readme"
+}

@@ -1,5 +1,5 @@
-var expect = require("chai").expect;
-var nextBigger = require('../index.js').nextBigger;
+let expect = require("chai").expect;
+let nextBigger = require('../index.js').nextBigger;
 
 describe('#nextBigger', function() {
   it('returns a number', function() {
